@@ -16,7 +16,10 @@
 
 # yanport illustration
 
-    ![plot](./src/assets/illustration.png)
+    <p align="center">
+    <a href="#" target="blank"><img src="./src/assets/illustration.png" width="200" alt="Request Test" />
+    </a>
+   </p>
 
 # Next test with gatling inprogress mode
 ................................................................
