@@ -4,7 +4,7 @@
 
 # yanport run
 
-`./gradlew bootRun`
+`cd aspirateur && gradle clean && ./gradlew bootRun`
 
 # yanport test to postman
 
@@ -16,10 +16,8 @@
 
 # yanport illustration
 
-    <p align="center">
-    <a href="#" target="blank"><img src="./src/assets/illustration.png" width="200" alt="Request Test" />
-    </a>
-   </p>
+    ![./src/assets/illustration.png]
 
-# Next test with gatling inprogress mode
-................................................................
+# Test with gatling 
+After running program to do:
+ `cd integration-tests && gradle clean && gradle gatlingRun` 
