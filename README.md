@@ -16,7 +16,7 @@
 
 # yanport illustration
 
-    ![Postman](./src/assets/illustration.png)
+    ![plot](./src/assets/illustration.png)
 
 # Next test with gatling inprogress mode
 ................................................................
